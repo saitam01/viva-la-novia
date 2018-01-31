@@ -18,11 +18,11 @@ app.get('/about', function(request, response) {
 });
 
 app.get('/services', function(request, response) {
-  response.render('pages/about');
+  response.render('pages/services');
 });
 
 app.get('/contact', function(request, response) {
-  response.render('pages/about');
+  response.render('pages/contact');
 });
 
 app.listen(app.get('port'), function() {
