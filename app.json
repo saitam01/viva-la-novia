@@ -1,8 +1,0 @@
-{
-  "name": "Viva la novia EJS",
-  "description": "Web page for novia travelling",
-  "repository": "https://github.com/saitam01/viva-la-novia.git",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-  "keywords": ["node", "express", "heroku"],
-  "image": "heroku/nodejs"
-}

@@ -5,11 +5,13 @@
  */
 
 body {
+  background-image: url(/public/img/header.jpg);
   padding-top: 54px;
 }
 
 @media (min-width: 992px) {
   body {
+    background-image: url(/public/img/header.jpg);
     padding-top: 56px;
   }
 }
